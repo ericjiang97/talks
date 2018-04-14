@@ -3027,7 +3027,7 @@ button:disabled,
   opacity: 0;
 }
 
-.tiles article.is-transitioning {
+.tiles article.is-transfitioning {
   -moz-transform: scale(0.95);
   -webkit-transform: scale(0.95);
   -ms-transform: scale(0.95);
